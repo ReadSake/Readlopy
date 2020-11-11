@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/ReadSake/Readlopy</id>
+    <title>清酒の小站</title>
+    <updated>2020-11-11T10:37:57.831Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/ReadSake/Readlopy"/>
+    <link rel="self" href="https://github.com/ReadSake/Readlopy/atom.xml"/>
+    <subtitle>Welcome~</subtitle>
+    <logo>https://github.com/ReadSake/Readlopy/images/avatar.png</logo>
+    <icon>https://github.com/ReadSake/Readlopy/favicon.ico</icon>
+    <rights>All rights reserved 2020, 清酒の小站</rights>
+</feed>
